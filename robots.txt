@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bulk-trade-referral-code-salah.vercel.app/sitemap.xml
